@@ -1,6 +1,6 @@
 service: serverless_hello_world
 frameworkVersion: '2'
-
+app:my-aws-python-flask-api-app
 provider:
   name: aws
   runtime: python3.8
